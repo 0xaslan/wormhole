@@ -10,6 +10,3 @@ rev = "09b2081498366df936abae26eea4b2d5cafb2788"
 
 [addresses]
 wormhole = "0xf47329f4344f3bf0f8e436e2f7b485466cff300f12a166563995d3888c296a94"
-
-[dev-addresses]
-wormhole = "0x100"
