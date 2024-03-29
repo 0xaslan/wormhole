@@ -10,4 +10,4 @@ rev = "framework/testnet"
 override = true
 
 [addresses]
-wormhole = "0xf47329f4344f3bf0f8e436e2f7b485466cff300f12a166563995d3888c296a94"
+wormhole = "0x0"
